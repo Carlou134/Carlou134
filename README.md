@@ -1,11 +1,11 @@
 # 👋 Hola, soy Carlos Vásquez | Full-Stack Engineer
 
-Soy **Ingeniero de Sistemas** (Quinto Superior - UPC) con más de 2 años de experiencia desarrollando soluciones empresariales robustas. Me especializo en diseñar arquitecturas escalables y mantenibles, aplicando principios de ingeniería de software modernos.
+Ingeniero de Sistemas en formación (Quinto Superior - UPC) con más de **2 años de experiencia** profesional en desarrollo y soporte de software. Mi enfoque está en construir aplicaciones empresariales escalables bajo estándares de calidad modernos.
 
-### 🛠️ Lo que manejo en mi día a día:
-*   **Backend:** .NET (C#), Clean Architecture, SOLID, CQRS (MediatR).
-*   **Frontend:** Angular, React, TypeScript.
-*   **Especialización Actual:** Ciberseguridad aplicada con **Machine Learning** y Análisis de Grafos (enfocado en optimización de SOCs).
+### 🛠️ Perfil Técnico:
+* **Backend:** .NET (C#), Django, Java, Clean Architecture, SOLID, CQRS.
+* **Frontend:** Angular, React, Astro, TypeScript.
+* **Investigación:** Machine Learning aplicado a Ciberseguridad (SOC Optimization).
 
 ---
 
@@ -13,8 +13,8 @@ Soy **Ingeniero de Sistemas** (Quinto Superior - UPC) con más de 2 años de exp
 Actualmente estoy centrado en la automatización de alertas de ciberseguridad y en perfeccionar el desarrollo de aplicaciones móviles multiplataforma.
 
 *   🔭 **Actualmente trabajando en:** Tesis sobre Clasificación de Alertas de Ciberseguridad con ML.
-*   🌱 **Profundizando en:** Inteligencia Artificial aplicada a la eficiencia de procesos de negocio.
-*   🎮 **Interés Personal:** Desarrollo de mecánicas de juego y narrativa transmedia (en mis tiempos libres exploro la creación de mundos).
+*   🌱 **Profundizando en:** IA para procesos de negocio y arquitectura Cloud (AWS/Azure) para soluciones escalables.
+*   🎮 **Interés Personal:** Fan de los **Survival Horror** (**Resident Evil**), fiel seguidor del **FC Barcelona** y jugador de fútbol los domingos.
 
 ---
 
