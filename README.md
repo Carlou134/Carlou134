@@ -19,8 +19,8 @@ Actualmente estoy centrado en la automatización de alertas de ciberseguridad y 
 ---
 
 ### 📊 Estadísticas de Desarrollador
-![Resumen de Carlos](https://github-readme-stats.vercel.app/api?username=Carlou134&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlou134&layout=compact&theme=radical)
+![Resumen de Carlos](https://github-readme-stats.vercel.app/api?username=Carlou134&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlou134&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
