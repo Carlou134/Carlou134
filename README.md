@@ -1,10 +1,10 @@
 # 👋 Hola, soy Carlos Vásquez | Full-Stack Engineer
 
-Soy **Ingeniero de Sistemas** (Quinto Superior - UPC) con más de 3 años de experiencia desarrollando soluciones empresariales robustas. Me especializo en diseñar arquitecturas escalables y mantenibles, aplicando principios de ingeniería de software modernos.
+Soy **Ingeniero de Sistemas** (Quinto Superior - UPC) con más de 2 años de experiencia desarrollando soluciones empresariales robustas. Me especializo en diseñar arquitecturas escalables y mantenibles, aplicando principios de ingeniería de software modernos.
 
 ### 🛠️ Lo que manejo en mi día a día:
-*   **Backend:** .NET (C#), Node.js, Clean Architecture, SOLID, CQRS (MediatR).
-*   **Frontend:** Angular, React Native, TypeScript.
+*   **Backend:** .NET (C#), Clean Architecture, SOLID, CQRS (MediatR).
+*   **Frontend:** Angular, React, TypeScript.
 *   **Especialización Actual:** Ciberseguridad aplicada con **Machine Learning** y Análisis de Grafos (enfocado en optimización de SOCs).
 
 ---
@@ -18,9 +18,15 @@ Actualmente estoy centrado en la automatización de alertas de ciberseguridad y 
 
 ---
 
-### 📊 Estadísticas de Desarrollador
-![Resumen de Carlos](https://github-readme-stats.vercel.app/api?username=Carlou134&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlou134&layout=compact&theme=radical&cache_seconds=1800)
+### 📊 Actividad y Lenguajes
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlou134&theme=radical" alt="Streak de Carlos" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlou134&theme=radical" alt="Lenguajes mas usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlou134&theme=radical" alt="Stats Generales" />
+</p>
 
 ---
 
