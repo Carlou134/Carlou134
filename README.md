@@ -33,5 +33,5 @@ Actualmente estoy centrado en la automatización de alertas de ciberseguridad y 
 ### 📫 Conectemos:
 *   📧 **Email:** [carlouvasquez134@gmail.com](mailto:carlouvasquez134@gmail.com)
 *   📍 **Ubicación:** Lima, Perú
-*   💼 **LinkedIn:** [Carlos Vásquez](www.linkedin.com/in/carlos-vásquez-rodriguez-283a1b23b)
+*   💼 **LinkedIn:** [Carlos Vásquez]([www.linkedin.com/in/carlos-vásquez-rodriguez-283a1b23b](https://www.linkedin.com/in/carlos-v%C3%A1squez-rodriguez-283a1b23b/))
 
