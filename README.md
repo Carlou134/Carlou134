@@ -1,37 +1,37 @@
-# 👋 Hola, soy Carlos Vásquez | Full-Stack Engineer
+# 👋 Hi, I'm Carlos Vásquez | Full-Stack Software Engineer
 
-Ingeniero de Sistemas en formación (Quinto Superior - UPC) con más de **2 años de experiencia** profesional en desarrollo y soporte de software. Mi enfoque está en construir aplicaciones empresariales escalables bajo estándares de calidad modernos.
+Systems Engineering Student at UPC (**Top 5% / Quinto Superior**) with **2+ years of professional experience** in software development and support. I specialize in building scalable enterprise applications with a strong focus on clean code and modern architecture.
 
-### 🛠️ Perfil Técnico:
+### 🛠️ Technical Stack:
 * **Backend:** .NET (C#), Django, Java, Clean Architecture, SOLID, CQRS.
 * **Frontend:** Angular, React, Astro, TypeScript.
-* **Investigación:** Machine Learning aplicado a Ciberseguridad (SOC Optimization).
+* **Data & Research:** Machine Learning for Cybersecurity (SOC Optimization), SQL Server.
+* **Cloud & Tools:** Azure/AWS, Docker, Git.
 
 ---
 
-### 🧪 Proyectos y Enfoque
-Actualmente estoy centrado en la automatización de alertas de ciberseguridad y en perfeccionar el desarrollo de aplicaciones móviles multiplataforma.
+### 🧪 Research & Projects
+I am currently bridging the gap between Software Architecture and AI-driven security.
 
-*   🔭 **Actualmente trabajando en:** Tesis sobre Clasificación de Alertas de Ciberseguridad con ML.
-*   🌱 **Profundizando en:** IA para procesos de negocio y arquitectura Cloud (AWS/Azure) para soluciones escalables.
-*   🎮 **Interés Personal:** Fan de los **Survival Horror** (**Resident Evil**), fiel seguidor del **FC Barcelona** y jugador de fútbol los domingos.
+* 🔭 **Current Project:** Senior Thesis on **Cybersecurity Alert Classification using Machine Learning**.
+* 🌱 **Learning Path:** Advanced Cloud Architecture (Azure/AWS) and AI Integration for Business Processes.
+* 🎮 **Outside of Code:** Survival Horror enthusiast (**Resident Evil** series), **FC Barcelona** supporter, and Sunday League football player.
 
 ---
 
-### 📊 Actividad y Lenguajes
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlou134&theme=radical" alt="Streak de Carlos" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlou134&theme=radical" alt="Carlos's Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlou134&theme=radical" alt="Lenguajes mas usados" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlou134&theme=radical" alt="Stats Generales" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlou134&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlou134&theme=radical" alt="General Stats" />
 </p>
 
 ---
 
-### 📫 Conectemos:
-*   📧 **Email:** [carlouvasquez134@gmail.com](mailto:carlouvasquez134@gmail.com)
-*   📍 **Ubicación:** Lima, Perú
-*   💼 **LinkedIn:** [Carlos Vásquez](https://www.linkedin.com/in/carlos-v%C3%A1squez-rodriguez-283a1b23b/)
-
+### 📫 Let's Connect:
+* 📧 **Email:** [carlouvasquez134@gmail.com](mailto:carlouvasquez134@gmail.com)
+* 💼 **LinkedIn:** [Carlos Vásquez](https://www.linkedin.com/in/carlos-v%C3%A1squez-rodriguez-283a1b23b/)
+* 📍 **Location:** Lima, Peru
