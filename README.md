@@ -17,7 +17,7 @@
 
 Full-Stack Developer with **2+ years of professional experience** across enterprise logistics, tech consulting, and cybersecurity research. Currently finishing my Systems Engineering degree at **UPC** (Top 5% — *Quinto Superior*) while working simultaneously at two companies.
 
-I've shipped **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) — one of the world's largest shipping lines — and currently build modern web products at **Zoluxiones Latam** and **Fractal Soluciones TI**.
+I've shipped **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) — one of the world's largest shipping lines — and currently build modern web products at [Zoluxiones Latam](https://zoluxiones.com/es/home/) and [Fractal Soluciones TI](https://www.fractal.com.pe/).
 
 My current research sits at the intersection of **Machine Learning and Cybersecurity**: classifying SOC alerts using Random Forest aligned to the NIST Cybersecurity Framework.
 
@@ -67,6 +67,8 @@ Developing a web system that automates SOC alert triage using a supervised ML pi
 - **Stack:** Python · scikit-learn · Flask/FastAPI · React
 
 Collaborated with a classmate currently working at a real SOC in Lima.
+
+📂 **[View Repository](https://github.com/Carlou134/soc-alert-prioritization-ml)**
 
 ---
 
