@@ -1,37 +1,118 @@
-# 👋 Hi, I'm Carlos Vásquez | Full-Stack Software Engineer
+<div align="center">
 
-Systems Engineering Student at UPC (**Top 5% / Quinto Superior**) with **2+ years of professional experience** in software development and support. I specialize in building scalable enterprise applications with a strong focus on clean code and modern architecture.
+# Carlos Vásquez
+### Full-Stack Software Engineer · ML & DevOps Enthusiast
 
-### 🛠️ Technical Stack:
-* **Backend:** .NET (C#), Django, Java, Clean Architecture, SOLID, CQRS.
-* **Frontend:** Angular, React, Astro, TypeScript.
-* **Data & Research:** Machine Learning for Cybersecurity (SOC Optimization), SQL Server.
-* **Cloud & Tools:** Azure/AWS, Docker, Git.
+*Building enterprise-grade software by day — classifying SOC alerts with Random Forest at night.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Vásquez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-v%C3%A1squez-rodriguez-283a1b23b/)
+[![Email](https://img.shields.io/badge/Email-carlouvasquez134%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlouvasquez134@gmail.com)
+[![Location](https://img.shields.io/badge/Lima-Peru-D91023?style=flat&logo=googlemaps&logoColor=white)](#)
 
-### 🧪 Research & Projects
-I am currently bridging the gap between Software Architecture and AI-driven security.
-
-* 🔭 **Current Project:** Senior Thesis on **Cybersecurity Alert Classification using Machine Learning**.
-* 🌱 **Learning Path:** Advanced Cloud Architecture (Azure/AWS) and AI Integration for Business Processes.
-* 🎮 **Outside of Code:** Survival Horror enthusiast (**Resident Evil** series), **FC Barcelona** supporter, and Sunday League football player.
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlou134&theme=radical" alt="Carlos's Streak" />
+## 👨‍💻 About Me
+
+Full-Stack Developer with **2+ years of professional experience** across enterprise logistics, tech consulting, and cybersecurity research. Currently finishing my Systems Engineering degree at **UPC** (Top 5% — *Quinto Superior*) while working simultaneously at two companies.
+
+I've shipped **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) — one of the world's largest shipping lines — and currently build modern web products at **Zoluxiones Latam** and **Fractal Soluciones TI**.
+
+My current research sits at the intersection of **Machine Learning and Cybersecurity**: classifying SOC alerts using Random Forest aligned to the NIST Cybersecurity Framework.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Clean_Architecture-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-runtime-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Flask%2FFastAPI-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-14%2B-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-Enterprise-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-005FAD?style=flat&logo=typescript&logoColor=white)
+
+**Data & AI**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Random_Forest-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data_Engineering-150458?style=flat&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API_Integration-412991?style=flat&logo=openai&logoColor=white)
+
+**Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-Pipelines-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**Patterns & Principles**
+`Clean Architecture` · `CQRS / MediatR` · `SOLID` · `Microservices` · `REST APIs`
+
+---
+
+## 🔬 Research — Senior Thesis
+
+> **"Sistema Web basado en Random Forest alineado al NIST Cybersecurity Framework para optimizar las alertas en Centros de Operaciones de Seguridad (SOC) de Lima Metropolitana"**
+
+Developing a web system that automates SOC alert triage using a supervised ML pipeline:
+
+- **Dataset:** 10K real SOC records + 10K adapted Microsoft GUIDE records → 20K combined
+- **Model:** Random Forest with engineered features (`guide_tactic_risk`, `guide_event_risk`, `rate_x_anomaly`)
+- **Classes:** `benigno` · `a_investigar` · `malicioso`
+- **Performance:** F1 Macro ~0.915 (5-fold cross-validation)
+- **Framework alignment:** NIST Cybersecurity Framework (Identify → Detect → Respond)
+- **Stack:** Python · scikit-learn · Flask/FastAPI · React
+
+Collaborated with a classmate currently working at a real SOC in Lima.
+
+---
+
+## 💼 Professional Experience
+
+| Company | Role | Period | Stack |
+|---|---|---|---|
+| **Fractal Soluciones TI** | Full-Stack Developer | 2025 – present | React 19, shadcn/UI, Zustand, TanStack Query, .NET Clean Architecture, OpenAI, AWS |
+| **Zoluxiones Latam** | Full-Stack Developer | 2025 – present | Next.js, Node.js, Docker, GitLab CI/CD |
+| **Mediterranean Shipping Company (MSC) Perú** | Software Developer | Dec 2023 – Feb 2026 | Angular, .NET, SQL Server, Azure DevOps, Python/Pandas, Power Automate |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlou134&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlou134&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlou134&theme=radical" alt="General Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlou134&theme=radical" alt="Stats" />
 </p>
 
 ---
 
-### 📫 Let's Connect:
-* 📧 **Email:** [carlouvasquez134@gmail.com](mailto:carlouvasquez134@gmail.com)
-* 💼 **LinkedIn:** [Carlos Vásquez](https://www.linkedin.com/in/carlos-v%C3%A1squez-rodriguez-283a1b23b/)
-* 📍 **Location:** Lima, Peru
+## 🌱 Currently
+
+- 🏗️ Shipping features in production at Zoluxiones Latam and Fractal Soluciones TI
+- 🧠 Finalizing the ML pipeline and Flask/FastAPI integration for my thesis
+- 📐 Deepening expertise in Cloud Architecture (Azure / AWS) and AI integration for enterprise
+- 🎓 Wrapping up my degree at UPC
+
+---
+
+## ⚡ Outside of Code
+
+**⚽ Football** — FC Barcelona supporter and Sunday league player  
+**🎮 Gaming** — Survival horror enthusiast (Resident Evil series)  
+**📺 Anime** — Bleach, Dragon Ball, Death Note
+
+---
+
+<div align="center">
+
+*Open to collaborating on open source, freelance projects, or just exchanging ideas on ML, DevOps, or backend architecture. Don't hesitate to reach out.*
+
+**[carlouvasquez134@gmail.com](mailto:carlouvasquez134@gmail.com)**
+
+</div>
