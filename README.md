@@ -85,7 +85,7 @@ Collaborated with a classmate currently working at a real SOC in Lima.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Carlou134&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlou134&theme=radical" alt="Top Languages" />
