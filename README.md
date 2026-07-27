@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with **2+ years of professional experience** across enterprise logistics, tech consulting, and cybersecurity research. Currently finishing my Systems Engineering degree at **UPC** (Top 5% — *Quinto Superior*) while shipping features in production.
+Full-Stack Developer with **2+ years of professional experience** across enterprise logistics, tech consulting, and cybersecurity research. Systems Engineering student at UPC (Top 5% — Quinto Superior), thesis complete and pending sustentation.
 
 I've built **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) — one of the world's largest shipping lines — and currently develop modern web products and internal tooling at [Zoluxiones Latam](https://zoluxiones.com/es/home/).
 
