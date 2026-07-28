@@ -5,7 +5,7 @@
 
 *Building enterprise-grade software by day — classifying SOC alerts with Random Forest at night.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Vásquez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-v%C3%A1squez-rodriguez-283a1b23b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Vásquez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vasquez-rod/)
 [![Email](https://img.shields.io/badge/Email-carlouvasquez134%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlouvasquez134@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-live-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-nextjs-sigma-olive.vercel.app/)
 [![Location](https://img.shields.io/badge/Lima-Peru-D91023?style=flat&logo=googlemaps&logoColor=white)](#)
