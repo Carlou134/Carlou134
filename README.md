@@ -66,7 +66,7 @@ My current research sits at the intersection of **Machine Learning and Cybersecu
 
 Web system that automates SOC alert triage using a supervised ML pipeline:
 
-- **Dataset:** 10K real SOC records + 10K adapted Microsoft GUIDE records → 20K combined
+- **Dataset:** 30K real SOC records
 - **Model:** Random Forest with engineered features (`guide_tactic_risk`, `guide_event_risk`, `rate_x_anomaly`)
 - **Classes:** `benigno` · `a_investigar` · `malicioso`
 - **Performance:** F1 Macro ~0.915 (5-fold cross-validation)
