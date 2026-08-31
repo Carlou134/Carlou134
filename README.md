@@ -16,11 +16,19 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with **2+ years of professional experience** across enterprise logistics, tech consulting, and cybersecurity research. Systems Engineering student at UPC (Top 5% — Quinto Superior), thesis complete and pending sustentation.
+Full-Stack Developer with **2+ years of professional experience** across 
+enterprise logistics, tech consulting, and cybersecurity research. Currently 
+working as **Solutions Center of Excellence Associate** at Zoluxiones IT Services, 
+building fullstack solutions for robotics platforms and integrating third-party 
+APIs across AI, cloud, and robotics domains.
 
-I've built **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) — one of the world's largest shipping lines — and currently develop modern web products and internal tooling at [Zoluxiones Latam](https://zoluxiones.com/es/home/).
+I've built **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) 
+— one of the world's largest shipping lines — and hold a Systems Engineering 
+degree from **UPC** (Top 5% — *Quinto Superior*), thesis complete.
 
-My current research sits at the intersection of **Machine Learning and Cybersecurity**: classifying SOC alerts using Random Forest aligned to the NIST Cybersecurity Framework, with model explainability via SHAP.
+My research sits at the intersection of **Machine Learning and Cybersecurity**: 
+classifying SOC alerts using Random Forest aligned to the NIST Cybersecurity 
+Framework, with model explainability via SHAP.
 
 ---
 
