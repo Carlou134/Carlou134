@@ -18,7 +18,7 @@
 
 Full-Stack Developer with **2+ years of professional experience** across 
 enterprise logistics, tech consulting, and cybersecurity research. Currently 
-working as **Solutions Center of Excellence Associate** at Zoluxiones IT Services, 
+working as **Solutions Center of Excellence Associate** at [Zoluxiones IT Services](https://zoluxiones.com/es/home/), 
 building fullstack solutions for robotics platforms and integrating third-party 
 APIs across AI, cloud, and robotics domains.
 
