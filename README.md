@@ -77,7 +77,7 @@ Web system that automates SOC alert triage using a supervised ML pipeline:
 - **Dataset:** 30K real SOC records
 - **Model:** Random Forest with engineered features (`guide_tactic_risk`, `guide_event_risk`, `rate_x_anomaly`)
 - **Classes:** `benigno` · `a_investigar` · `malicioso`
-- **Performance:** F1 Macro ~0.915 (5-fold cross-validation)
+- **Performance:** F1 Macro 0.8316 · Recall en "malicioso" 98.9% (held-out test set, 6,600 alertas)
 - **Explainability:** SHAP values for model interpretability
 - **Framework alignment:** NIST Cybersecurity Framework (Identify → Detect → Respond)
 - **Stack:** Python · scikit-learn · Flask/FastAPI · React
