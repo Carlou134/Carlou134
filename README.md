@@ -93,7 +93,7 @@ Collaborated with a classmate currently working at a real SOC in Lima.
 
 | Company | Role | Period | Stack | Impact |
 |---|---|---|---|---|
-| Zoluxiones IT Services S.A.C. | Solutions Center of Excellence Associate | Sep 2026 – present | React 19, C#/.NET, Next.js/Redis, Kotlin, Docker, GitLab CI/CD | +15% system efficiency · −40% coordination meetings |
+| **Zoluxiones IT Services S.A.C.** | Solutions Center of Excellence Associate | Sep 2026 – present | React 19, C#/.NET, Next.js/Redis, Kotlin, Docker, GitLab CI/CD | +15% system efficiency · −40% coordination meetings |
 | **Independent Consulting** | Full-Stack Developer | 2025 – 2026 | React 19, shadcn/UI, Zustand, TanStack Query, .NET Clean Architecture, OpenAI, AWS | AWS file retrieval optimization · legacy C#/VB migration scoping |
 | **Mediterranean Shipping Company (MSC) Perú** | Software Developer | Dec 2023 – Mar 2026 | Angular, .NET, SQL Server, Azure DevOps, Python/Pandas, Power Automate | +20% performance · 10+ production modules |
 
