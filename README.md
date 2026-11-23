@@ -3,7 +3,7 @@
 # Carlos Vásquez
 ### Full-Stack Software Engineer · ML & DevOps Enthusiast
 
-*Building enterprise-grade software by day — classifying SOC alerts with Random Forest at night.*
+*Building enterprise-grade software — and applying ML to cybersecurity.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Vásquez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vasquez-rod/)
 [![Email](https://img.shields.io/badge/Email-carlouvasquez134%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlouvasquez134@gmail.com)
@@ -23,12 +23,12 @@ building fullstack solutions for robotics platforms and integrating third-party
 APIs across AI, cloud, and robotics domains.
 
 I've built **10+ production modules** at [Mediterranean Shipping Company (MSC)](https://www.msc.com/) 
-— one of the world's largest shipping lines — and hold a Systems Engineering 
-degree from **UPC** (Top 5% — *Quinto Superior*), thesis complete.
+— one of the world's largest shipping lines — and hold a Bachelor's degree in 
+Information Systems Engineering from **UPC** (Top fifth of the class — *Quinto Superior*).
 
 My research sits at the intersection of **Machine Learning and Cybersecurity**: 
-classifying SOC alerts using Random Forest aligned to the NIST Cybersecurity 
-Framework, with model explainability via SHAP.
+classifying SOC alerts with a two-stage Random Forest + LightGBM pipeline 
+aligned to the NIST Cybersecurity Framework, with model explainability via SHAP.
 
 ---
 
@@ -40,7 +40,7 @@ Framework, with model explainability via SHAP.
 ![Node.js](https://img.shields.io/badge/Node.js-runtime-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Backend-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Spring_Boot-ED8B00?style=flat&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Flask%2FFastAPI-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Django%2FFastAPI-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-14%2B-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -50,6 +50,7 @@ Framework, with model explainability via SHAP.
 
 **Data & AI**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Random_Forest-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-02569B?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF6B6B?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data_Engineering-150458?style=flat&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API_Integration-412991?style=flat&logo=openai&logoColor=white)
@@ -74,13 +75,13 @@ Framework, with model explainability via SHAP.
 
 Web system that automates SOC alert triage using a supervised ML pipeline:
 
-- **Dataset:** 30K real SOC records
-- **Model:** Random Forest with engineered features (`guide_tactic_risk`, `guide_event_risk`, `rate_x_anomaly`)
+- **Dataset:** ~33K SOC alerts (32,999 after deduplication)
+- **Model:** Two-stage hierarchical classifier — Random Forest (malicious vs. rest) → LightGBM (to-investigate vs. benign)
 - **Classes:** `benigno` · `a_investigar` · `malicioso`
 - **Performance:** F1 Macro 0.8316 · Recall on "malicious" class: 98.9% (held-out test set, 6,600 alerts)
 - **Explainability:** SHAP values for model interpretability
 - **Framework alignment:** NIST Cybersecurity Framework (Identify → Detect → Respond)
-- **Stack:** Python · scikit-learn · Flask/FastAPI · React
+- **Stack:** Python · Django · Django REST Framework · scikit-learn · LightGBM · SHAP · Tailwind CSS · PostgreSQL
 
 Collaborated with a classmate currently working at a real SOC in Lima.
 
@@ -94,7 +95,7 @@ Collaborated with a classmate currently working at a real SOC in Lima.
 |---|---|---|---|---|
 | Zoluxiones IT Services S.A.C. | Solutions Center of Excellence Associate | Sep 2026 – present | React 19, C#/.NET, Next.js/Redis, Kotlin, Docker, GitLab CI/CD | +15% system efficiency · −40% coordination meetings |
 | **Independent Consulting** | Full-Stack Developer | 2025 – 2026 | React 19, shadcn/UI, Zustand, TanStack Query, .NET Clean Architecture, OpenAI, AWS | AWS file retrieval optimization · legacy C#/VB migration scoping |
-| **Mediterranean Shipping Company (MSC) Perú** | Software Developer | Dic 2023 – Feb 2026 | Angular, .NET, SQL Server, Azure DevOps, Python/Pandas, Power Automate | +20% performance · 10+ production modules |
+| **Mediterranean Shipping Company (MSC) Perú** | Software Developer | Dec 2023 – Mar 2026 | Angular, .NET, SQL Server, Azure DevOps, Python/Pandas, Power Automate | +20% performance · 10+ production modules |
 
 ---
 
@@ -114,7 +115,7 @@ Collaborated with a classmate currently working at a real SOC in Lima.
 ## 🌱 Currently
 
 - 🏗️ Shipping features in production at Zoluxiones Latam
-- 🎓 Finalizing my Systems Engineering degree at UPC — thesis complete, pending sustentation
+- 🎓 Information Systems Engineering graduate from UPC — thesis completed and defended
 - 📐 Deepening expertise in Cloud Architecture (AWS) and AI integration for enterprise
 
 ---
